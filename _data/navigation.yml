@@ -1,0 +1,28 @@
+# main links
+main:
+  - title: "개발일기"
+    url: https://YangDongJae.github.io/categories/developLog
+  - title: "자료구조"
+    url: https://YangDongJae.github.io/categories/dataStructure
+  - title: "머신러닝"
+    url: https://YangDongJae.github.io/categories/machineLearning
+  - title: "Java"
+    url: https://YangDongJae.github.io/categories/java
+  - title: "tags"
+    url: https://YangDongJae.github.io/tags
+  - title: "categories"
+    url: https://YangDongJae.github.io/categories
+  - title: "About"
+    url: https://YangDongJae.github.io/about/
+  - title: "Home"
+    url: https://YangDongJae.github.io
+
+    
+    
+  
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
